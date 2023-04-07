@@ -1,4 +1,4 @@
-Title of the Project        :   A Cascaded Ensemble Based Youtube Spam 						   Comments Detection using Machine Learning
+Title of the Project        :   A Cascaded Ensemble Based Youtube Spam Comments Detection using Machine Learning
 
 Name of the Students  :     Chegireddy Keerthana, Shalini B, Swathi S
 
